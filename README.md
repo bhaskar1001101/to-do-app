@@ -1,2 +1,2 @@
-# to-do-app
-CLI To Do App
+# CLI To-Do App
+A Basic CLI to track your daily tasks.
